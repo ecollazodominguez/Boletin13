@@ -54,7 +54,7 @@ public class Masaxista extends Seleccion {
 
     @Override
     public String toString() {
-        return super.toString()+ "titulacion=" + titulacion + ", anosExperiencia=" + anosExperiencia;
+        return super.toString()+ "\nTitulación = " + titulacion + "\nAños de experiencia = " + anosExperiencia;
     }
     
     

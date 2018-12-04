@@ -68,7 +68,7 @@ public class Seleccion {
 
     @Override
     public String toString() {
-        return "id=" + id + ", nome=" + nome + ", apelido=" + apelido + ", edade=" + edade;
+        return "ID = " + id + "\nNome = " + nome + "\nApelido = " + apelido + "\nEdade = " + edade;
     }
     
     
