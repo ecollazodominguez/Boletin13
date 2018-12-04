@@ -57,7 +57,6 @@ public class Seleccion {
     }
     
     
-    
     public void concentrarse(){
         JOptionPane.showMessageDialog(null,"Concéntrase a Selección.");
     }

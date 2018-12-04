@@ -39,15 +39,11 @@ public class Xogador extends Seleccion {
     
     
     
-    @Override
-    public void concentrarse(){
-        JOptionPane.showMessageDialog(null,"Concéntrase a Selección.");
-    }
     public void xogarPartido(){
         
     }
     public void entrenar(){
-        
+        System.out.println("O xogador entrena.");
     }
 
     @Override

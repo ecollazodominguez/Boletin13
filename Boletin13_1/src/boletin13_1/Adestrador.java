@@ -29,10 +29,6 @@ public class Adestrador extends Seleccion {
     
     
     
-    @Override
-    public void concentrarse(){
-    JOptionPane.showMessageDialog(null,"Concéntrase a Selección.");
-    }
     public void dirixirPartido(){
         
     }

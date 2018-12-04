@@ -39,10 +39,6 @@ public class Masaxista extends Seleccion {
     
     
     
-    @Override
-    public void concentrarse(){
-        JOptionPane.showMessageDialog(null,"Concéntrase a Selección.");
-    }
     public void darMasaxes(){
         
     }
